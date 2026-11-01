@@ -1,7 +1,6 @@
 # Employee Management System
 
 A beginner-friendly CRUD web application built with JSP, Jakarta Servlets, JDBC and MySQL.
-It uses plain HTML/CSS (no Bootstrap) and ordinary arrays rather than Java Collection Framework classes.
 
 ## Requirements
 - JDK 11 or later
@@ -40,5 +39,4 @@ The demo login is intentionally simple for a learning project. Do not use plain-
 - Update employee
 - Delete employee
 
-## GitHub
-Create a repository and push the project folder. Do not upload database passwords or generated `target/` files.
+
