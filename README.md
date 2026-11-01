@@ -1,4 +1,4 @@
-# Employee Management System
+# Employee Administration Portal
 
 A beginner-friendly CRUD web application built with JSP, Jakarta Servlets, JDBC and MySQL.
 
